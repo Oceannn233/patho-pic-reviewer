@@ -17,20 +17,28 @@
 
 ## 快速开始
 
-### 方式一：本地服务器（推荐）
+### 1. 克隆仓库
 
 ```bash
-cd webapp
+git clone https://github.com/Oceannn233/patho-pic-reviewer.git
+cd patho-pic-reviewer
+```
+
+### 2. 启动（三选一）
+
+**方式一：Python 本地服务器（推荐）**
+
+```bash
 python3 -m http.server 8765
 ```
 
 浏览器打开 `http://localhost:8765`
 
-### 方式二：VS Code Live Server
+**方式二：VS Code Live Server**
 
-用 VS Code 打开 `webapp` 文件夹，右键 `index.html` → "Open with Live Server"
+用 VS Code 打开 `patho-pic-reviewer` 文件夹，右键 `index.html` → "Open with Live Server"
 
-### 方式三：直接打开
+**方式三：直接打开**
 
 直接双击 `index.html`，部分浏览器可能因跨域限制无法加载题库数据，推荐使用方式一或二。
 
@@ -55,7 +63,7 @@ python3 -m http.server 8765
 ## 项目结构
 
 ```
-webapp/
+patho-pic-reviewer/
 ├── index.html              # 主页面
 ├── css/
 │   └── style.css           # 样式表
