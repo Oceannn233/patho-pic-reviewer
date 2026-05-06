@@ -6,11 +6,11 @@
 
 无需安装任何环境，下载单个文件直接打开即可使用：
 
-1. 下载仓库中的 **`病理识图复习_完整版.html`**
+1. 前往 [Releases](https://github.com/Oceannn233/patho-pic-reviewer/releases) 下载最新版 **`病理识图复习_完整版.html`**
 2. 双击用浏览器打开
 3. 开始复习
 
-> 108 张图片已全部内嵌，文件约 34MB，首次加载需几秒。支持 Chrome / Edge / Safari。
+> 68 张图片已全部内嵌，文件约 24MB，首次加载需几秒。支持 Chrome / Edge / Safari。
 
 ---
 
@@ -18,16 +18,9 @@
 
 如需修改代码、自定义题库，可克隆完整仓库：
 
-### 1. 克隆仓库
-
 ```bash
 git clone https://github.com/Oceannn233/patho-pic-reviewer.git
 cd patho-pic-reviewer
-```
-
-### 2. 启动
-
-```bash
 python3 -m http.server 8765
 ```
 
@@ -44,14 +37,15 @@ python3 -m http.server 8765
 | `病理识图复习_完整版.html` | 图片全部内嵌，单文件独立运行 | **普通用户，一键使用** |
 | `index.html` + `images/` + `js/` | 分离式结构，图片从本地加载 | 开发者，需修改代码时 |
 
-## 题库
+## 题库 (v2.0)
 
 | 分类 | 题数 |
 |------|------|
-| 血循障碍 | 19 |
-| 炎症 | 22 |
-| 肿瘤 | 49 |
-| 组损与修复 | 18 |
+| 组损与修复 | 16 |
+| 血循障碍 | 14 |
+| 炎症 | 15 |
+| 肿瘤 | 23 |
+| **合计** | **68** |
 
 ## 快捷键
 
@@ -66,13 +60,14 @@ python3 -m http.server 8765
 
 ```
 patho-pic-reviewer/
-├── index.html              # 主页面
+├── index.html                       # 主页面
+├── 病理识图复习_完整版.html          # 一键使用版
 ├── css/
-│   └── style.css           # 样式表
+│   └── style.css                    # 样式表
 ├── js/
-│   ├── app.js              # 应用逻辑
-│   └── knowledge.js        # 知识点库（提示+解析）
+│   ├── app.js                       # 应用逻辑
+│   └── knowledge.js                 # 知识点库
 ├── data/
-│   └── question_bank_light.json  # 题库数据
-└── images/                 # 109张病理图片
+│   └── question_bank_light.json     # 题库数据
+└── images/                          # 68张病理图片
 ```

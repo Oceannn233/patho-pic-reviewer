@@ -1,999 +1,9 @@
 [
   {
-    "id": "血循障碍_1",
-    "category": "血循障碍",
-    "slide_number": 1,
-    "image": "血循障碍_1_29f2e5584f9d.jpg",
-    "answer": "急性阑尾炎",
-    "all_text": "急性阑尾炎",
-    "texts": [
-      "急性阑尾炎"
-    ]
-  },
-  {
-    "id": "血循障碍_2",
-    "category": "血循障碍",
-    "slide_number": 2,
-    "image": "血循障碍_2_1209c3db4012.jpg",
-    "answer": "慢性肝淤血",
-    "all_text": "慢性肝淤血",
-    "texts": [
-      "慢性肝淤血"
-    ]
-  },
-  {
-    "id": "血循障碍_3",
-    "category": "血循障碍",
-    "slide_number": 3,
-    "image": "血循障碍_3_645131d3176d.jpg",
-    "answer": "慢性肺淤血",
-    "all_text": "慢性肺淤血",
-    "texts": [
-      "慢性肺淤血"
-    ]
-  },
-  {
-    "id": "血循障碍_4",
-    "category": "血循障碍",
-    "slide_number": 4,
-    "image": "血循障碍_4_c982e0a2246f.jpg",
-    "answer": "肺出血",
-    "all_text": "肺出血",
-    "texts": [
-      "肺出血"
-    ]
-  },
-  {
-    "id": "血循障碍_5",
-    "category": "血循障碍",
-    "slide_number": 5,
-    "image": "血循障碍_5_5db0bfa96a44.jpg",
-    "answer": "脑出血",
-    "all_text": "脑出血",
-    "texts": [
-      "脑出血"
-    ]
-  },
-  {
-    "id": "血循障碍_6",
-    "category": "血循障碍",
-    "slide_number": 6,
-    "image": "血循障碍_6_3427b6802635.jpg",
-    "answer": "混合血栓",
-    "all_text": "混合血栓",
-    "texts": [
-      "混合血栓"
-    ]
-  },
-  {
-    "id": "血循障碍_7",
-    "category": "血循障碍",
-    "slide_number": 7,
-    "image": "血循障碍_7_3a5787c2a215.jpg",
-    "answer": "左髂外静脉血栓",
-    "all_text": "左髂外静脉血栓",
-    "texts": [
-      "左髂外静脉血栓"
-    ]
-  },
-  {
-    "id": "血循障碍_8",
-    "category": "血循障碍",
-    "slide_number": 8,
-    "image": "血循障碍_8_e40f84ad772c.jpg",
-    "answer": "肺动脉栓塞",
-    "all_text": "肺动脉栓塞",
-    "texts": [
-      "肺动脉栓塞"
-    ]
-  },
-  {
-    "id": "血循障碍_9",
-    "category": "血循障碍",
-    "slide_number": 9,
-    "image": "血循障碍_9_ebb3cc800c4b.jpg",
-    "answer": "肾贫血性梗死",
-    "all_text": "肾贫血性梗死",
-    "texts": [
-      "肾贫血性梗死"
-    ]
-  },
-  {
-    "id": "血循障碍_10",
-    "category": "血循障碍",
-    "slide_number": 10,
-    "image": "血循障碍_10_48489bb5f6b4.jpg",
-    "answer": "脾贫血性梗死",
-    "all_text": "脾贫血性梗死",
-    "texts": [
-      "脾贫血性梗死"
-    ]
-  },
-  {
-    "id": "血循障碍_11",
-    "category": "血循障碍",
-    "slide_number": 11,
-    "image": "血循障碍_11_5c8e4ceed195.jpg",
-    "answer": "肺出血性梗死",
-    "all_text": "肺出血性梗死",
-    "texts": [
-      "肺出血性梗死"
-    ]
-  },
-  {
-    "id": "血循障碍_12",
-    "category": "血循障碍",
-    "slide_number": 12,
-    "image": "血循障碍_12_c420ccb7f17c.jpg",
-    "answer": "肠出血性梗死",
-    "all_text": "肠出血性梗死",
-    "texts": [
-      "肠出血性梗死"
-    ]
-  },
-  {
-    "id": "血循障碍_13",
-    "category": "血循障碍",
-    "slide_number": 13,
-    "image": "血循障碍_13_69f02a65bca4.jpg",
-    "answer": "急性肺淤血",
-    "all_text": "急性肺淤血",
-    "texts": [
-      "急性肺淤血"
-    ]
-  },
-  {
-    "id": "血循障碍_14",
-    "category": "血循障碍",
-    "slide_number": 14,
-    "image": "血循障碍_14_2a7cf9101922.jpg",
-    "answer": "慢性肺淤血",
-    "all_text": "慢性肺淤血",
-    "texts": [
-      "慢性肺淤血"
-    ]
-  },
-  {
-    "id": "血循障碍_15",
-    "category": "血循障碍",
-    "slide_number": 15,
-    "image": "血循障碍_15_686eafa0e472.jpg",
-    "answer": "慢性肺淤血",
-    "all_text": "慢性肺淤血",
-    "texts": [
-      "慢性肺淤血"
-    ]
-  },
-  {
-    "id": "血循障碍_16",
-    "category": "血循障碍",
-    "slide_number": 16,
-    "image": "血循障碍_16_5a61f35ab1dc.jpg",
-    "answer": "慢性肝淤血",
-    "all_text": "慢性肝淤血",
-    "texts": [
-      "慢性肝淤血"
-    ]
-  },
-  {
-    "id": "血循障碍_17",
-    "category": "血循障碍",
-    "slide_number": 17,
-    "image": "血循障碍_17_69321d4607a7.jpg",
-    "answer": "混合血栓",
-    "all_text": "混合血栓",
-    "texts": [
-      "混合血栓"
-    ]
-  },
-  {
-    "id": "血循障碍_18",
-    "category": "血循障碍",
-    "slide_number": 18,
-    "image": "血循障碍_18_8fae8f4bb3a2.jpg",
-    "answer": "肾贫血性梗死",
-    "all_text": "肾贫血性梗死",
-    "texts": [
-      "肾贫血性梗死"
-    ]
-  },
-  {
-    "id": "血循障碍_19",
-    "category": "血循障碍",
-    "slide_number": 19,
-    "image": "血循障碍_19_c90094f9b1ca.jpg",
-    "answer": "肺出血性梗死",
-    "all_text": "肺出血性梗死",
-    "texts": [
-      "肺出血性梗死"
-    ]
-  },
-  {
-    "id": "炎症_1",
-    "category": "炎症",
-    "slide_number": 1,
-    "image": "炎症_1_4cf115e54630.jpg",
-    "answer": "白喉",
-    "all_text": "白喉",
-    "texts": [
-      "白喉"
-    ]
-  },
-  {
-    "id": "炎症_2",
-    "category": "炎症",
-    "slide_number": 2,
-    "image": "炎症_2_f00311959305.jpg",
-    "answer": "纤维素性心包炎（绒毛心）",
-    "all_text": "纤维素性心包炎（绒毛心）",
-    "texts": [
-      "纤维素性心包炎（绒毛心）"
-    ]
-  },
-  {
-    "id": "炎症_3",
-    "category": "炎症",
-    "slide_number": 3,
-    "image": "炎症_3_3c000469a861.jpg",
-    "answer": "细菌性痢疾",
-    "all_text": "细菌性痢疾",
-    "texts": [
-      "细菌性痢疾"
-    ]
-  },
-  {
-    "id": "炎症_4",
-    "category": "炎症",
-    "slide_number": 4,
-    "image": "炎症_4_dcd99de15998.jpg",
-    "answer": "急性化脓性阑尾炎",
-    "all_text": "急性化脓性阑尾炎",
-    "texts": [
-      "急性化脓性阑尾炎"
-    ]
-  },
-  {
-    "id": "炎症_5",
-    "category": "炎症",
-    "slide_number": 5,
-    "image": "炎症_5_2b047c434f80.jpg",
-    "answer": "肝脓肿",
-    "all_text": "肝脓肿",
-    "texts": [
-      "肝脓肿"
-    ]
-  },
-  {
-    "id": "炎症_6",
-    "category": "炎症",
-    "slide_number": 6,
-    "image": "炎症_6_5600949e200b.jpg",
-    "answer": "脑脓肿",
-    "all_text": "脑脓肿",
-    "texts": [
-      "脑脓肿"
-    ]
-  },
-  {
-    "id": "炎症_7",
-    "category": "炎症",
-    "slide_number": 7,
-    "image": "炎症_7_4383cac7c7b2.jpg",
-    "answer": "血吸虫病肝",
-    "all_text": "血吸虫病肝",
-    "texts": [
-      "血吸虫病肝"
-    ]
-  },
-  {
-    "id": "炎症_8",
-    "category": "炎症",
-    "slide_number": 8,
-    "image": "炎症_8_634e41fdbc60.jpg",
-    "answer": "肠伤寒",
-    "all_text": "肠伤寒",
-    "texts": [
-      "肠伤寒"
-    ]
-  },
-  {
-    "id": "炎症_9",
-    "category": "炎症",
-    "slide_number": 9,
-    "image": "炎症_9_82c1ded88ea5.jpg",
-    "answer": "纤维素性心包炎",
-    "all_text": "纤维素性心包炎",
-    "texts": [
-      "纤维素性心包炎"
-    ]
-  },
-  {
-    "id": "炎症_10",
-    "category": "炎症",
-    "slide_number": 10,
-    "image": "炎症_10_b5513e55de56.jpg",
-    "answer": "细菌性痢疾",
-    "all_text": "细菌性痢疾",
-    "texts": [
-      "细菌性痢疾"
-    ]
-  },
-  {
-    "id": "炎症_11",
-    "category": "炎症",
-    "slide_number": 11,
-    "image": "炎症_11_8288f36690a9.jpg",
-    "answer": "急性化脓性阑尾炎",
-    "all_text": "急性化脓性阑尾炎",
-    "texts": [
-      "急性化脓性阑尾炎"
-    ]
-  },
-  {
-    "id": "炎症_12",
-    "category": "炎症",
-    "slide_number": 12,
-    "image": "炎症_12_4c280b0bab81.jpg",
-    "answer": "急性化脓性阑尾炎",
-    "all_text": "急性化脓性阑尾炎",
-    "texts": [
-      "急性化脓性阑尾炎"
-    ]
-  },
-  {
-    "id": "炎症_13",
-    "category": "炎症",
-    "slide_number": 13,
-    "image": "炎症_13_ba01232fa77d.jpg",
-    "answer": "肝脓肿",
-    "all_text": "肝脓肿",
-    "texts": [
-      "肝脓肿"
-    ]
-  },
-  {
-    "id": "炎症_14",
-    "category": "炎症",
-    "slide_number": 14,
-    "image": "炎症_14_4c36bd57b530.jpg",
-    "answer": "肺吸虫皮下结节",
-    "all_text": "肺吸虫皮下结节",
-    "texts": [
-      "肺吸虫皮下结节"
-    ]
-  },
-  {
-    "id": "炎症_15",
-    "category": "炎症",
-    "slide_number": 15,
-    "image": "炎症_15_eb74475a0001.jpg",
-    "answer": "异物肉芽肿",
-    "all_text": "异物肉芽肿",
-    "texts": [
-      "异物肉芽肿"
-    ]
-  },
-  {
-    "id": "炎症_16",
-    "category": "炎症",
-    "slide_number": 16,
-    "image": "炎症_16_9288dc5e3fc3.jpg",
-    "answer": "异物肉芽肿",
-    "all_text": "异物肉芽肿",
-    "texts": [
-      "异物肉芽肿"
-    ]
-  },
-  {
-    "id": "炎症_17",
-    "category": "炎症",
-    "slide_number": 17,
-    "image": "炎症_17_22863377f124.jpg",
-    "answer": "干酪样肺炎",
-    "all_text": "干酪样肺炎",
-    "texts": [
-      "干酪样肺炎"
-    ]
-  },
-  {
-    "id": "炎症_18",
-    "category": "炎症",
-    "slide_number": 18,
-    "image": "炎症_18_119192187574.jpg",
-    "answer": "鼻息肉",
-    "all_text": "鼻息肉",
-    "texts": [
-      "鼻息肉"
-    ]
-  },
-  {
-    "id": "炎症_19",
-    "category": "炎症",
-    "slide_number": 19,
-    "image": "炎症_19_c75b430cf433.jpg",
-    "answer": "炎性肉芽组织",
-    "all_text": "炎性肉芽组织",
-    "texts": [
-      "炎性肉芽组织"
-    ]
-  },
-  {
-    "id": "炎症_20",
-    "category": "炎症",
-    "slide_number": 20,
-    "image": "炎症_20_4ca050ba9c2b.jpg",
-    "answer": "淋巴结结核",
-    "all_text": "淋巴结结核",
-    "texts": [
-      "淋巴结结核"
-    ]
-  },
-  {
-    "id": "炎症_21",
-    "category": "炎症",
-    "slide_number": 21,
-    "image": "炎症_21_fbef92be2168.jpg",
-    "answer": "血吸虫病肝",
-    "all_text": "血吸虫病肝",
-    "texts": [
-      "血吸虫病肝"
-    ]
-  },
-  {
-    "id": "炎症_22",
-    "category": "炎症",
-    "slide_number": 22,
-    "image": "炎症_22_5199759c3834.jpg",
-    "answer": "肠伤寒",
-    "all_text": "肠伤寒",
-    "texts": [
-      "肠伤寒"
-    ]
-  },
-  {
-    "id": "肿瘤_1",
-    "category": "肿瘤",
-    "slide_number": 1,
-    "image": "肿瘤_1_4f0b54df543d.jpg",
-    "answer": "肠腺瘤（单发）",
-    "all_text": "肠腺瘤（单发）",
-    "texts": [
-      "肠腺瘤（单发）"
-    ]
-  },
-  {
-    "id": "肿瘤_2",
-    "category": "肿瘤",
-    "slide_number": 2,
-    "image": "肿瘤_2_cc48f9fce757.jpg",
-    "answer": "肠腺瘤（多发）",
-    "all_text": "肠腺瘤（多发）",
-    "texts": [
-      "肠腺瘤（多发）"
-    ]
-  },
-  {
-    "id": "肿瘤_3",
-    "category": "肿瘤",
-    "slide_number": 3,
-    "image": "肿瘤_3_0af648243ed3.jpg",
-    "answer": "结肠腺癌",
-    "all_text": "结肠腺癌",
-    "texts": [
-      "结肠腺癌"
-    ]
-  },
-  {
-    "id": "肿瘤_4",
-    "category": "肿瘤",
-    "slide_number": 4,
-    "image": "肿瘤_4_8a527f48cc7f.jpg",
-    "answer": "乳腺癌",
-    "all_text": "乳腺癌",
-    "texts": [
-      "乳腺癌"
-    ]
-  },
-  {
-    "id": "肿瘤_5",
-    "category": "肿瘤",
-    "slide_number": 5,
-    "image": "肿瘤_5_1d835f203acd.jpg",
-    "answer": "乳腺癌",
-    "all_text": "乳腺癌",
-    "texts": [
-      "乳腺癌"
-    ]
-  },
-  {
-    "id": "肿瘤_6",
-    "category": "肿瘤",
-    "slide_number": 6,
-    "image": "肿瘤_6_20d316fe5690.jpg",
-    "answer": "食管癌",
-    "all_text": "食管癌",
-    "texts": [
-      "食管癌"
-    ]
-  },
-  {
-    "id": "肿瘤_7",
-    "category": "肿瘤",
-    "slide_number": 7,
-    "image": "肿瘤_7_1e8e858cb5cc.jpg",
-    "answer": "食管癌",
-    "all_text": "食管癌",
-    "texts": [
-      "食管癌"
-    ]
-  },
-  {
-    "id": "肿瘤_8",
-    "category": "肿瘤",
-    "slide_number": 8,
-    "image": "肿瘤_8_fb989daf8aa4.jpg",
-    "answer": "皮肤乳头状瘤",
-    "all_text": "皮肤乳头状瘤",
-    "texts": [
-      "皮肤乳头状瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_9",
-    "category": "肿瘤",
-    "slide_number": 9,
-    "image": "肿瘤_9_d543d70046b5.jpg",
-    "answer": "头皮鳞癌",
-    "all_text": "头皮鳞癌",
-    "texts": [
-      "头皮鳞癌"
-    ]
-  },
-  {
-    "id": "肿瘤_10",
-    "category": "肿瘤",
-    "slide_number": 10,
-    "image": "肿瘤_10_5663a8e34a7c.jpg",
-    "answer": "卵巢黏液性囊腺瘤",
-    "all_text": "卵巢黏液性囊腺瘤",
-    "texts": [
-      "卵巢黏液性囊腺瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_11",
-    "category": "肿瘤",
-    "slide_number": 11,
-    "image": "肿瘤_11_50ce100397b5.jpg",
-    "answer": "卵巢浆液性囊腺瘤",
-    "all_text": "卵巢浆液性囊腺瘤",
-    "texts": [
-      "卵巢浆液性囊腺瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_12",
-    "category": "肿瘤",
-    "slide_number": 12,
-    "image": "肿瘤_12_0276c54b5c2d.jpg",
-    "answer": "脂肪瘤",
-    "all_text": "脂肪瘤",
-    "texts": [
-      "脂肪瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_13",
-    "category": "肿瘤",
-    "slide_number": 13,
-    "image": "肿瘤_13_f582d7c398cc.jpg",
-    "answer": "脂肪瘤",
-    "all_text": "脂肪瘤",
-    "texts": [
-      "脂肪瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_14",
-    "category": "肿瘤",
-    "slide_number": 14,
-    "image": "肿瘤_14_c846da1947d4.jpg",
-    "answer": "脂肪肉瘤",
-    "all_text": "脂肪肉瘤",
-    "texts": [
-      "脂肪肉瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_15",
-    "category": "肿瘤",
-    "slide_number": 15,
-    "image": "肿瘤_15_f01e162c650e.jpg",
-    "answer": "纤维瘤",
-    "all_text": "纤维瘤",
-    "texts": [
-      "纤维瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_16",
-    "category": "肿瘤",
-    "slide_number": 16,
-    "image": "肿瘤_16_2e3bea9af407.jpg",
-    "answer": "纤维肉瘤",
-    "all_text": "纤维肉瘤",
-    "texts": [
-      "纤维肉瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_17",
-    "category": "肿瘤",
-    "slide_number": 17,
-    "image": "肿瘤_17_033775b43b1e.jpg",
-    "answer": "子宫平滑肌瘤（单发）",
-    "all_text": "子宫平滑肌瘤（单发）",
-    "texts": [
-      "子宫平滑肌瘤（单发）"
-    ]
-  },
-  {
-    "id": "肿瘤_18",
-    "category": "肿瘤",
-    "slide_number": 18,
-    "image": "肿瘤_18_d6976b712a33.jpg",
-    "answer": "子宫平滑肌瘤（多发）",
-    "all_text": "子宫平滑肌瘤（多发）",
-    "texts": [
-      "子宫平滑肌瘤（多发）"
-    ]
-  },
-  {
-    "id": "肿瘤_19",
-    "category": "肿瘤",
-    "slide_number": 19,
-    "image": "肿瘤_19_7a7546dd585d.jpg",
-    "answer": "子宫平滑肌瘤（多发）",
-    "all_text": "子宫平滑肌瘤（多发）",
-    "texts": [
-      "子宫平滑肌瘤（多发）"
-    ]
-  },
-  {
-    "id": "肿瘤_20",
-    "category": "肿瘤",
-    "slide_number": 20,
-    "image": "肿瘤_20_16e5c2384a1f.jpg",
-    "answer": "乳腺纤维腺瘤",
-    "all_text": "乳腺纤维腺瘤",
-    "texts": [
-      "乳腺纤维腺瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_21",
-    "category": "肿瘤",
-    "slide_number": 21,
-    "image": "肿瘤_21_480e5d6ecc40.jpg",
-    "answer": "乳腺癌",
-    "all_text": "乳腺癌",
-    "texts": [
-      "乳腺癌"
-    ]
-  },
-  {
-    "id": "肿瘤_22",
-    "category": "肿瘤",
-    "slide_number": 22,
-    "image": "肿瘤_22_c088a96c5394.jpg",
-    "answer": "子宫颈癌",
-    "all_text": "子宫颈癌",
-    "texts": [
-      "子宫颈癌"
-    ]
-  },
-  {
-    "id": "肿瘤_23",
-    "category": "肿瘤",
-    "slide_number": 23,
-    "image": "肿瘤_23_7831dde7feff.jpg",
-    "answer": "宫颈鳞癌",
-    "all_text": "宫颈鳞癌",
-    "texts": [
-      "宫颈鳞癌"
-    ]
-  },
-  {
-    "id": "肿瘤_24",
-    "category": "肿瘤",
-    "slide_number": 24,
-    "image": "肿瘤_24_10af339199f4.jpg",
-    "answer": "阴茎鳞癌",
-    "all_text": "阴茎鳞癌",
-    "texts": [
-      "阴茎鳞癌"
-    ]
-  },
-  {
-    "id": "肿瘤_25",
-    "category": "肿瘤",
-    "slide_number": 25,
-    "image": "肿瘤_25_4aeaf5c63bb2.jpg",
-    "answer": "膀胱乳头状癌",
-    "all_text": "膀胱乳头状癌",
-    "texts": [
-      "膀胱乳头状癌"
-    ]
-  },
-  {
-    "id": "肿瘤_26",
-    "category": "肿瘤",
-    "slide_number": 26,
-    "image": "肿瘤_26_82041baf2bb0.jpg",
-    "answer": "骨肉瘤",
-    "all_text": "骨肉瘤",
-    "texts": [
-      "骨肉瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_27",
-    "category": "肿瘤",
-    "slide_number": 27,
-    "image": "肿瘤_27_33649480ab1d.jpg",
-    "answer": "恶性黑色素瘤",
-    "all_text": "恶性黑色素瘤",
-    "texts": [
-      "恶性黑色素瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_28",
-    "category": "肿瘤",
-    "slide_number": 28,
-    "image": "肿瘤_28_cb2952f4b729.jpg",
-    "answer": "卵巢囊性成熟性畸胎瘤",
-    "all_text": "卵巢囊性成熟性畸胎瘤",
-    "texts": [
-      "卵巢囊性成熟性畸胎瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_29",
-    "category": "肿瘤",
-    "slide_number": 29,
-    "image": "肿瘤_29_e887fe4d2de5.jpg",
-    "answer": "恶性淋巴瘤\u000b（霍奇金淋巴瘤）",
-    "all_text": "恶性淋巴瘤\u000b（霍奇金淋巴瘤）",
-    "texts": [
-      "恶性淋巴瘤\u000b（霍奇金淋巴瘤）"
-    ]
-  },
-  {
-    "id": "肿瘤_30",
-    "category": "肿瘤",
-    "slide_number": 30,
-    "image": "肿瘤_30_6438731b4d1e.jpg",
-    "answer": "恶性淋巴瘤\u000b（非霍奇金淋巴瘤）",
-    "all_text": "恶性淋巴瘤\u000b（非霍奇金淋巴瘤）",
-    "texts": [
-      "恶性淋巴瘤\u000b（非霍奇金淋巴瘤）"
-    ]
-  },
-  {
-    "id": "肿瘤_31",
-    "category": "肿瘤",
-    "slide_number": 31,
-    "image": "肿瘤_31_433996a77c4d.jpg",
-    "answer": "转移性肝癌",
-    "all_text": "转移性肝癌",
-    "texts": [
-      "转移性肝癌"
-    ]
-  },
-  {
-    "id": "肿瘤_32",
-    "category": "肿瘤",
-    "slide_number": 32,
-    "image": "肿瘤_32_72edda5b1f18.jpg",
-    "answer": "转移性肺癌",
-    "all_text": "转移性肺癌",
-    "texts": [
-      "转移性肺癌"
-    ]
-  },
-  {
-    "id": "肿瘤_33",
-    "category": "肿瘤",
-    "slide_number": 33,
-    "image": "肿瘤_33_a83131a0ee88.jpg",
-    "answer": "肠腺瘤",
-    "all_text": "肠腺瘤",
-    "texts": [
-      "肠腺瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_34",
-    "category": "肿瘤",
-    "slide_number": 34,
-    "image": "肿瘤_34_03263c9e39f8.jpg",
-    "answer": "肠腺癌",
-    "all_text": "肠腺癌",
-    "texts": [
-      "肠腺癌"
-    ]
-  },
-  {
-    "id": "肿瘤_35",
-    "category": "肿瘤",
-    "slide_number": 35,
-    "image": "肿瘤_35_227b6a9f44bf.jpg",
-    "answer": "皮肤乳头状瘤",
-    "all_text": "皮肤乳头状瘤",
-    "texts": [
-      "皮肤乳头状瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_36",
-    "category": "肿瘤",
-    "slide_number": 36,
-    "image": "肿瘤_36_5a725d59f728.jpg",
-    "answer": "食管鳞状细胞癌",
-    "all_text": "食管鳞状细胞癌",
-    "texts": [
-      "食管鳞状细胞癌"
-    ]
-  },
-  {
-    "id": "肿瘤_37",
-    "category": "肿瘤",
-    "slide_number": 37,
-    "image": "肿瘤_37_caad880f60ca.jpg",
-    "answer": "子宫平滑肌瘤",
-    "all_text": "子宫平滑肌瘤",
-    "texts": [
-      "子宫平滑肌瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_38",
-    "category": "肿瘤",
-    "slide_number": 38,
-    "image": "肿瘤_38_25b77e4fa736.jpg",
-    "answer": "子宫平滑肌肉瘤",
-    "all_text": "子宫平滑肌肉瘤",
-    "texts": [
-      "子宫平滑肌肉瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_39",
-    "category": "肿瘤",
-    "slide_number": 39,
-    "image": "肿瘤_39_c117130de289.jpg",
-    "answer": "子宫颈高级别上皮内病变\u000b（CIN III 级累及腺体）",
-    "all_text": "子宫颈高级别上皮内病变\u000b（CIN III 级累及腺体）",
-    "texts": [
-      "子宫颈高级别上皮内病变\u000b（CIN III 级累及腺体）"
-    ]
-  },
-  {
-    "id": "肿瘤_40",
-    "category": "肿瘤",
-    "slide_number": 40,
-    "image": "肿瘤_40_213b797e0ee8.jpg",
-    "answer": "子宫颈高级别上皮内病变\u000b（CIN III 级累及腺体）",
-    "all_text": "子宫颈高级别上皮内病变\u000b（CIN III 级累及腺体）",
-    "texts": [
-      "子宫颈高级别上皮内病变\u000b（CIN III 级累及腺体）"
-    ]
-  },
-  {
-    "id": "肿瘤_41",
-    "category": "肿瘤",
-    "slide_number": 41,
-    "image": "肿瘤_41_7b2dd60de59c.jpg",
-    "answer": "子宫颈鳞状细胞癌\u000b（宫颈浸润癌）",
-    "all_text": "子宫颈鳞状细胞癌\u000b（宫颈浸润癌）",
-    "texts": [
-      "子宫颈鳞状细胞癌\u000b（宫颈浸润癌）"
-    ]
-  },
-  {
-    "id": "肿瘤_42",
-    "category": "肿瘤",
-    "slide_number": 42,
-    "image": "肿瘤_42_8b7a11bc11b4.jpg",
-    "answer": "宫颈鳞状细胞癌（高分化）",
-    "all_text": "宫颈鳞状细胞癌（高分化）",
-    "texts": [
-      "宫颈鳞状细胞癌（高分化）"
-    ]
-  },
-  {
-    "id": "肿瘤_43",
-    "category": "肿瘤",
-    "slide_number": 43,
-    "image": "肿瘤_43_74e90d0ea383.jpg",
-    "answer": "纤维瘤",
-    "all_text": "纤维瘤",
-    "texts": [
-      "纤维瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_44",
-    "category": "肿瘤",
-    "slide_number": 44,
-    "image": "肿瘤_44_40ff3e696071.jpg",
-    "answer": "纤维肉瘤",
-    "all_text": "纤维肉瘤",
-    "texts": [
-      "纤维肉瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_45",
-    "category": "肿瘤",
-    "slide_number": 45,
-    "image": "肿瘤_45_b2d1d69ffb88.jpg",
-    "answer": "乳腺浸润性癌（非特殊类型）",
-    "all_text": "乳腺浸润性癌（非特殊类型）",
-    "texts": [
-      "乳腺浸润性癌（非特殊类型）"
-    ]
-  },
-  {
-    "id": "肿瘤_46",
-    "category": "肿瘤",
-    "slide_number": 46,
-    "image": "肿瘤_46_4ca0f37dc2b2.jpg",
-    "answer": "膀胱乳头状尿路上皮癌",
-    "all_text": "膀胱乳头状尿路上皮癌",
-    "texts": [
-      "膀胱乳头状尿路上皮癌"
-    ]
-  },
-  {
-    "id": "肿瘤_47",
-    "category": "肿瘤",
-    "slide_number": 47,
-    "image": "肿瘤_47_8fb817081a5f.jpg",
-    "answer": "霍奇金淋巴瘤",
-    "all_text": "霍奇金淋巴瘤",
-    "texts": [
-      "霍奇金淋巴瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_48",
-    "category": "肿瘤",
-    "slide_number": 48,
-    "image": "肿瘤_48_c2135ad1b28e.jpg",
-    "answer": "霍奇金淋巴瘤",
-    "all_text": "霍奇金淋巴瘤",
-    "texts": [
-      "霍奇金淋巴瘤"
-    ]
-  },
-  {
-    "id": "肿瘤_49",
-    "category": "肿瘤",
-    "slide_number": 49,
-    "image": "肿瘤_49_3823e52bfc59.jpg",
-    "answer": "非霍奇金淋巴瘤",
-    "all_text": "非霍奇金淋巴瘤",
-    "texts": [
-      "非霍奇金淋巴瘤"
-    ]
-  },
-  {
     "id": "组损与修复_1",
     "category": "组损与修复",
     "slide_number": 1,
-    "image": "组损与修复_1_0f6c779dd76c.jpg",
+    "image": "组损与修复_1_1_7a23e08fc1.jpg",
     "answer": "心肌褐色萎缩",
     "all_text": "心肌褐色萎缩",
     "texts": [
@@ -1004,7 +14,7 @@
     "id": "组损与修复_2",
     "category": "组损与修复",
     "slide_number": 2,
-    "image": "组损与修复_2_ecbd1956c894.jpg",
+    "image": "组损与修复_2_2_f342400293.jpg",
     "answer": "脑萎缩",
     "all_text": "脑萎缩",
     "texts": [
@@ -1015,7 +25,7 @@
     "id": "组损与修复_3",
     "category": "组损与修复",
     "slide_number": 3,
-    "image": "组损与修复_3_1e104ad0dd91.jpg",
+    "image": "组损与修复_3_3_115ea38d0d.jpg",
     "answer": "肾压迫性萎缩",
     "all_text": "肾压迫性萎缩",
     "texts": [
@@ -1026,7 +36,7 @@
     "id": "组损与修复_4",
     "category": "组损与修复",
     "slide_number": 4,
-    "image": "组损与修复_4_e2be2d2aef4f.jpg",
+    "image": "组损与修复_4_4_6fce64649b.jpg",
     "answer": "脾包膜玻璃样变性",
     "all_text": "脾包膜玻璃样变性",
     "texts": [
@@ -1037,29 +47,7 @@
     "id": "组损与修复_5",
     "category": "组损与修复",
     "slide_number": 5,
-    "image": "组损与修复_5_18d62686ea5b.jpg",
-    "answer": "高血压左心肥大",
-    "all_text": "高血压左心肥大",
-    "texts": [
-      "高血压左心肥大"
-    ]
-  },
-  {
-    "id": "组损与修复_6",
-    "category": "组损与修复",
-    "slide_number": 6,
-    "image": "组损与修复_6_b6f98107331a.jpg",
-    "answer": "颗粒性固缩肾",
-    "all_text": "颗粒性固缩肾",
-    "texts": [
-      "颗粒性固缩肾"
-    ]
-  },
-  {
-    "id": "组损与修复_7",
-    "category": "组损与修复",
-    "slide_number": 7,
-    "image": "组损与修复_7_8d545ca9769a.jpg",
+    "image": "组损与修复_5_5_1fa38e0ed7.jpg",
     "answer": "肝脂肪变性",
     "all_text": "肝脂肪变性",
     "texts": [
@@ -1067,10 +55,10 @@
     ]
   },
   {
-    "id": "组损与修复_8",
+    "id": "组损与修复_6",
     "category": "组损与修复",
-    "slide_number": 8,
-    "image": "组损与修复_8_3491f9121279.jpg",
+    "slide_number": 6,
+    "image": "组损与修复_6_6_ef5334b82f.jpg",
     "answer": "脑液化性坏死",
     "all_text": "脑液化性坏死",
     "texts": [
@@ -1078,10 +66,10 @@
     ]
   },
   {
-    "id": "组损与修复_9",
+    "id": "组损与修复_7",
     "category": "组损与修复",
-    "slide_number": 9,
-    "image": "组损与修复_9_04631cb0d884.jpg",
+    "slide_number": 7,
+    "image": "组损与修复_7_7_5bdf441113.jpg",
     "answer": "肺干酪样坏死",
     "all_text": "肺干酪样坏死",
     "texts": [
@@ -1089,21 +77,21 @@
     ]
   },
   {
-    "id": "组损与修复_10",
+    "id": "组损与修复_8",
     "category": "组损与修复",
-    "slide_number": 10,
-    "image": "组损与修复_10_a0e761bf2b68.jpg",
-    "answer": "脚干性坏疽",
-    "all_text": "脚干性坏疽",
+    "slide_number": 8,
+    "image": "组损与修复_8_8_96b32f1c45.jpg",
+    "answer": "足干性坏疽",
+    "all_text": "足干性坏疽",
     "texts": [
-      "脚干性坏疽"
+      "足干性坏疽"
     ]
   },
   {
-    "id": "组损与修复_11",
+    "id": "组损与修复_9",
     "category": "组损与修复",
-    "slide_number": 11,
-    "image": "组损与修复_11_445bc3c63214.jpg",
+    "slide_number": 9,
+    "image": "组损与修复_9_9_3447f2af61.jpg",
     "answer": "皮肤一期愈合",
     "all_text": "皮肤一期愈合",
     "texts": [
@@ -1111,10 +99,10 @@
     ]
   },
   {
-    "id": "组损与修复_12",
+    "id": "组损与修复_10",
     "category": "组损与修复",
-    "slide_number": 12,
-    "image": "组损与修复_12_8765b56ee000.jpg",
+    "slide_number": 10,
+    "image": "组损与修复_10_10_64682f2378.jpg",
     "answer": "骨折愈合",
     "all_text": "骨折愈合",
     "texts": [
@@ -1122,10 +110,10 @@
     ]
   },
   {
-    "id": "组损与修复_13",
+    "id": "组损与修复_11",
     "category": "组损与修复",
-    "slide_number": 13,
-    "image": "组损与修复_13_ee626effcfb1.jpg",
+    "slide_number": 11,
+    "image": "组损与修复_11_11_bf19f97072.jpg",
     "answer": "心肌褐色萎缩",
     "all_text": "心肌褐色萎缩",
     "texts": [
@@ -1133,10 +121,10 @@
     ]
   },
   {
-    "id": "组损与修复_14",
+    "id": "组损与修复_12",
     "category": "组损与修复",
-    "slide_number": 14,
-    "image": "组损与修复_14_440809fdef1b.jpg",
+    "slide_number": 12,
+    "image": "组损与修复_12_12_8968fd6a7a.jpg",
     "answer": "肝脂肪变性",
     "all_text": "肝脂肪变性",
     "texts": [
@@ -1144,10 +132,10 @@
     ]
   },
   {
-    "id": "组损与修复_15",
+    "id": "组损与修复_13",
     "category": "组损与修复",
-    "slide_number": 15,
-    "image": "组损与修复_15_0cfbacd44806.jpg",
+    "slide_number": 13,
+    "image": "组损与修复_13_13_46dcbd990b.jpg",
     "answer": "肾贫血性梗死（凝固性坏死）",
     "all_text": "肾贫血性梗死（凝固性坏死）",
     "texts": [
@@ -1155,10 +143,10 @@
     ]
   },
   {
-    "id": "组损与修复_16",
+    "id": "组损与修复_14",
     "category": "组损与修复",
-    "slide_number": 16,
-    "image": "组损与修复_16_05f07c49273a.jpg",
+    "slide_number": 14,
+    "image": "组损与修复_14_14_2ae97dc2f2.jpg",
     "answer": "肝细胞坏死",
     "all_text": "肝细胞坏死",
     "texts": [
@@ -1166,10 +154,10 @@
     ]
   },
   {
-    "id": "组损与修复_17",
+    "id": "组损与修复_15",
     "category": "组损与修复",
-    "slide_number": 17,
-    "image": "组损与修复_17_2eb87c468fdf.jpg",
+    "slide_number": 15,
+    "image": "组损与修复_15_15_4785b21f91.jpg",
     "answer": "脑液化性坏死",
     "all_text": "脑液化性坏死",
     "texts": [
@@ -1177,14 +165,586 @@
     ]
   },
   {
-    "id": "组损与修复_18",
+    "id": "组损与修复_16",
     "category": "组损与修复",
-    "slide_number": 18,
-    "image": "组损与修复_18_3e844af328f6.jpg",
+    "slide_number": 16,
+    "image": "组损与修复_16_16_f2bfb5def2.jpg",
     "answer": "肉芽组织",
     "all_text": "肉芽组织",
     "texts": [
       "肉芽组织"
+    ]
+  },
+  {
+    "id": "血循障碍_1",
+    "category": "血循障碍",
+    "slide_number": 1,
+    "image": "血循障碍_1_17_d9855e3d89.jpg",
+    "answer": "慢性肺淤血",
+    "all_text": "慢性肺淤血",
+    "texts": [
+      "慢性肺淤血"
+    ]
+  },
+  {
+    "id": "血循障碍_2",
+    "category": "血循障碍",
+    "slide_number": 2,
+    "image": "血循障碍_2_18_20a08b41f3.jpg",
+    "answer": "肺出血",
+    "all_text": "肺出血",
+    "texts": [
+      "肺出血"
+    ]
+  },
+  {
+    "id": "血循障碍_3",
+    "category": "血循障碍",
+    "slide_number": 3,
+    "image": "血循障碍_3_19_8c04453e2e.jpg",
+    "answer": "混合血栓",
+    "all_text": "混合血栓",
+    "texts": [
+      "混合血栓"
+    ]
+  },
+  {
+    "id": "血循障碍_4",
+    "category": "血循障碍",
+    "slide_number": 4,
+    "image": "血循障碍_4_20_725a2ea724.jpg",
+    "answer": "肺动脉栓塞",
+    "all_text": "肺动脉栓塞",
+    "texts": [
+      "肺动脉栓塞"
+    ]
+  },
+  {
+    "id": "血循障碍_5",
+    "category": "血循障碍",
+    "slide_number": 5,
+    "image": "血循障碍_5_21_c9d3ef125e.jpg",
+    "answer": "肾贫血性梗死",
+    "all_text": "肾贫血性梗死",
+    "texts": [
+      "肾贫血性梗死"
+    ]
+  },
+  {
+    "id": "血循障碍_6",
+    "category": "血循障碍",
+    "slide_number": 6,
+    "image": "血循障碍_6_22_7d2a4430e1.jpg",
+    "answer": "肺出血性梗死",
+    "all_text": "肺出血性梗死",
+    "texts": [
+      "肺出血性梗死"
+    ]
+  },
+  {
+    "id": "血循障碍_7",
+    "category": "血循障碍",
+    "slide_number": 7,
+    "image": "血循障碍_7_23_3558e6c85a.jpg",
+    "answer": "肠出血性梗死",
+    "all_text": "肠出血性梗死",
+    "texts": [
+      "肠出血性梗死"
+    ]
+  },
+  {
+    "id": "血循障碍_8",
+    "category": "血循障碍",
+    "slide_number": 8,
+    "image": "血循障碍_8_24_d96deedbcd.jpg",
+    "answer": "急性肺淤血",
+    "all_text": "急性肺淤血",
+    "texts": [
+      "急性肺淤血"
+    ]
+  },
+  {
+    "id": "血循障碍_9",
+    "category": "血循障碍",
+    "slide_number": 9,
+    "image": "血循障碍_9_25_c3815018e9.jpg",
+    "answer": "慢性肺淤血",
+    "all_text": "慢性肺淤血",
+    "texts": [
+      "慢性肺淤血"
+    ]
+  },
+  {
+    "id": "血循障碍_10",
+    "category": "血循障碍",
+    "slide_number": 10,
+    "image": "血循障碍_10_26_9b8a19a3aa.jpg",
+    "answer": "慢性肺淤血",
+    "all_text": "慢性肺淤血",
+    "texts": [
+      "慢性肺淤血"
+    ]
+  },
+  {
+    "id": "血循障碍_11",
+    "category": "血循障碍",
+    "slide_number": 11,
+    "image": "血循障碍_11_27_5fbda15a59.jpg",
+    "answer": "慢性肝淤血",
+    "all_text": "慢性肝淤血",
+    "texts": [
+      "慢性肝淤血"
+    ]
+  },
+  {
+    "id": "血循障碍_12",
+    "category": "血循障碍",
+    "slide_number": 12,
+    "image": "血循障碍_12_28_95a0ea71f1.jpg",
+    "answer": "混合血栓",
+    "all_text": "混合血栓",
+    "texts": [
+      "混合血栓"
+    ]
+  },
+  {
+    "id": "血循障碍_13",
+    "category": "血循障碍",
+    "slide_number": 13,
+    "image": "血循障碍_13_29_46dcbd990b.jpg",
+    "answer": "肾贫血性梗死",
+    "all_text": "肾贫血性梗死",
+    "texts": [
+      "肾贫血性梗死"
+    ]
+  },
+  {
+    "id": "血循障碍_14",
+    "category": "血循障碍",
+    "slide_number": 14,
+    "image": "血循障碍_14_30_d8206401b6.jpg",
+    "answer": "肺出血性梗死",
+    "all_text": "肺出血性梗死",
+    "texts": [
+      "肺出血性梗死"
+    ]
+  },
+  {
+    "id": "炎症_1",
+    "category": "炎症",
+    "slide_number": 1,
+    "image": "炎症_1_31_3055245609.jpg",
+    "answer": "白喉",
+    "all_text": "白喉",
+    "texts": [
+      "白喉"
+    ]
+  },
+  {
+    "id": "炎症_2",
+    "category": "炎症",
+    "slide_number": 2,
+    "image": "炎症_2_32_926b8c0cf9.jpg",
+    "answer": "绒毛心",
+    "all_text": "绒毛心",
+    "texts": [
+      "绒毛心"
+    ]
+  },
+  {
+    "id": "炎症_3",
+    "category": "炎症",
+    "slide_number": 3,
+    "image": "炎症_3_33_c6bc38ccd0.jpg",
+    "answer": "大叶性肺炎",
+    "all_text": "大叶性肺炎",
+    "texts": [
+      "大叶性肺炎"
+    ]
+  },
+  {
+    "id": "炎症_4",
+    "category": "炎症",
+    "slide_number": 4,
+    "image": "炎症_4_34_7c1377dff0.jpg",
+    "answer": "急性化脓性阑尾炎",
+    "all_text": "急性化脓性阑尾炎",
+    "texts": [
+      "急性化脓性阑尾炎"
+    ]
+  },
+  {
+    "id": "炎症_5",
+    "category": "炎症",
+    "slide_number": 5,
+    "image": "炎症_5_35_191cc6471d.jpg",
+    "answer": "肝脓肿",
+    "all_text": "肝脓肿",
+    "texts": [
+      "肝脓肿"
+    ]
+  },
+  {
+    "id": "炎症_6",
+    "category": "炎症",
+    "slide_number": 6,
+    "image": "炎症_6_36_626f25bb53.jpg",
+    "answer": "脑脓肿",
+    "all_text": "脑脓肿",
+    "texts": [
+      "脑脓肿"
+    ]
+  },
+  {
+    "id": "炎症_7",
+    "category": "炎症",
+    "slide_number": 7,
+    "image": "炎症_7_37_21c88416ad.jpg",
+    "answer": "纤维素性心包炎",
+    "all_text": "纤维素性心包炎",
+    "texts": [
+      "纤维素性心包炎"
+    ]
+  },
+  {
+    "id": "炎症_8",
+    "category": "炎症",
+    "slide_number": 8,
+    "image": "炎症_8_38_c07ca632df.jpg",
+    "answer": "大叶性肺炎",
+    "all_text": "大叶性肺炎",
+    "texts": [
+      "大叶性肺炎"
+    ]
+  },
+  {
+    "id": "炎症_9",
+    "category": "炎症",
+    "slide_number": 9,
+    "image": "炎症_9_39_86fa69b959.jpg",
+    "answer": "急性阑尾炎",
+    "all_text": "急性阑尾炎",
+    "texts": [
+      "急性阑尾炎"
+    ]
+  },
+  {
+    "id": "炎症_10",
+    "category": "炎症",
+    "slide_number": 10,
+    "image": "炎症_10_40_79c8e898d1.jpg",
+    "answer": "急性阑尾炎",
+    "all_text": "急性阑尾炎",
+    "texts": [
+      "急性阑尾炎"
+    ]
+  },
+  {
+    "id": "炎症_11",
+    "category": "炎症",
+    "slide_number": 11,
+    "image": "炎症_11_41_b2cae84b5f.jpg",
+    "answer": "肝脓肿",
+    "all_text": "肝脓肿",
+    "texts": [
+      "肝脓肿"
+    ]
+  },
+  {
+    "id": "炎症_12",
+    "category": "炎症",
+    "slide_number": 12,
+    "image": "炎症_12_42_0fc9a72dff.jpg",
+    "answer": "肺吸虫皮下结节",
+    "all_text": "肺吸虫皮下结节",
+    "texts": [
+      "肺吸虫皮下结节"
+    ]
+  },
+  {
+    "id": "炎症_13",
+    "category": "炎症",
+    "slide_number": 13,
+    "image": "炎症_13_43_ccefefa805.jpg",
+    "answer": "鼻息肉",
+    "all_text": "鼻息肉",
+    "texts": [
+      "鼻息肉"
+    ]
+  },
+  {
+    "id": "炎症_14",
+    "category": "炎症",
+    "slide_number": 14,
+    "image": "炎症_14_44_b5e6f2976d.jpg",
+    "answer": "异物肉芽肿",
+    "all_text": "异物肉芽肿",
+    "texts": [
+      "异物肉芽肿"
+    ]
+  },
+  {
+    "id": "炎症_15",
+    "category": "炎症",
+    "slide_number": 15,
+    "image": "炎症_15_45_89c0e280fa.jpg",
+    "answer": "淋巴结结核",
+    "all_text": "淋巴结结核",
+    "texts": [
+      "淋巴结结核"
+    ]
+  },
+  {
+    "id": "肿瘤_1",
+    "category": "肿瘤",
+    "slide_number": 1,
+    "image": "肿瘤_1_46_0118a97a76.jpg",
+    "answer": "皮肤乳头状瘤",
+    "all_text": "皮肤乳头状瘤",
+    "texts": [
+      "皮肤乳头状瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_2",
+    "category": "肿瘤",
+    "slide_number": 2,
+    "image": "肿瘤_2_47_eaa27c4df4.jpg",
+    "answer": "头皮鳞癌",
+    "all_text": "头皮鳞癌",
+    "texts": [
+      "头皮鳞癌"
+    ]
+  },
+  {
+    "id": "肿瘤_3",
+    "category": "肿瘤",
+    "slide_number": 3,
+    "image": "肿瘤_3_48_67f5020892.jpg",
+    "answer": "食管癌",
+    "all_text": "食管癌",
+    "texts": [
+      "食管癌"
+    ]
+  },
+  {
+    "id": "肿瘤_4",
+    "category": "肿瘤",
+    "slide_number": 4,
+    "image": "肿瘤_4_49_d61caf3043.jpg",
+    "answer": "肠腺瘤",
+    "all_text": "肠腺瘤",
+    "texts": [
+      "肠腺瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_5",
+    "category": "肿瘤",
+    "slide_number": 5,
+    "image": "肿瘤_5_50_b6693db8dd.jpg",
+    "answer": "肠腺癌",
+    "all_text": "肠腺癌",
+    "texts": [
+      "肠腺癌"
+    ]
+  },
+  {
+    "id": "肿瘤_6",
+    "category": "肿瘤",
+    "slide_number": 6,
+    "image": "肿瘤_6_51_473f204671.jpg",
+    "answer": "纤维肉瘤",
+    "all_text": "纤维肉瘤",
+    "texts": [
+      "纤维肉瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_7",
+    "category": "肿瘤",
+    "slide_number": 7,
+    "image": "肿瘤_7_52_5f30db1e69.jpg",
+    "answer": "脂肪瘤",
+    "all_text": "脂肪瘤",
+    "texts": [
+      "脂肪瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_8",
+    "category": "肿瘤",
+    "slide_number": 8,
+    "image": "肿瘤_8_53_225baf25df.jpg",
+    "answer": "脂肪瘤",
+    "all_text": "脂肪瘤",
+    "texts": [
+      "脂肪瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_9",
+    "category": "肿瘤",
+    "slide_number": 9,
+    "image": "肿瘤_9_54_7e44d8da8d.jpg",
+    "answer": "脂肪肉瘤",
+    "all_text": "脂肪肉瘤",
+    "texts": [
+      "脂肪肉瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_10",
+    "category": "肿瘤",
+    "slide_number": 10,
+    "image": "肿瘤_10_55_430a6671d9.jpg",
+    "answer": "子宫平滑肌瘤",
+    "all_text": "子宫平滑肌瘤",
+    "texts": [
+      "子宫平滑肌瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_11",
+    "category": "肿瘤",
+    "slide_number": 11,
+    "image": "肿瘤_11_56_766f0a0724.jpg",
+    "answer": "骨肉瘤",
+    "all_text": "骨肉瘤",
+    "texts": [
+      "骨肉瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_12",
+    "category": "肿瘤",
+    "slide_number": 12,
+    "image": "肿瘤_12_57_3928685e19.jpg",
+    "answer": "卵巢成熟性囊性畸胎瘤",
+    "all_text": "卵巢成熟性囊性畸胎瘤",
+    "texts": [
+      "卵巢成熟性囊性畸胎瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_13",
+    "category": "肿瘤",
+    "slide_number": 13,
+    "image": "肿瘤_13_58_b00b1baf45.jpg",
+    "answer": "卵巢黏液性囊腺瘤",
+    "all_text": "卵巢黏液性囊腺瘤",
+    "texts": [
+      "卵巢黏液性囊腺瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_14",
+    "category": "肿瘤",
+    "slide_number": 14,
+    "image": "肿瘤_14_59_3fa4fdf57c.jpg",
+    "answer": "黑色素瘤",
+    "all_text": "黑色素瘤",
+    "texts": [
+      "黑色素瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_15",
+    "category": "肿瘤",
+    "slide_number": 15,
+    "image": "肿瘤_15_60_8df306b111.jpg",
+    "answer": "乳腺癌",
+    "all_text": "乳腺癌",
+    "texts": [
+      "乳腺癌"
+    ]
+  },
+  {
+    "id": "肿瘤_16",
+    "category": "肿瘤",
+    "slide_number": 16,
+    "image": "肿瘤_16_61_ebdbdaf26f.jpg",
+    "answer": "肝转移性肿瘤",
+    "all_text": "肝转移性肿瘤",
+    "texts": [
+      "肝转移性肿瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_17",
+    "category": "肿瘤",
+    "slide_number": 17,
+    "image": "肿瘤_17_62_e851934201.jpg",
+    "answer": "肺转移性癌",
+    "all_text": "肺转移性癌",
+    "texts": [
+      "肺转移性癌"
+    ]
+  },
+  {
+    "id": "肿瘤_18",
+    "category": "肿瘤",
+    "slide_number": 18,
+    "image": "肿瘤_18_63_1802b25521.jpg",
+    "answer": "皮肤乳头状瘤",
+    "all_text": "皮肤乳头状瘤",
+    "texts": [
+      "皮肤乳头状瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_19",
+    "category": "肿瘤",
+    "slide_number": 19,
+    "image": "肿瘤_19_64_ebda4b7433.jpg",
+    "answer": "食管鳞状细胞癌",
+    "all_text": "食管鳞状细胞癌",
+    "texts": [
+      "食管鳞状细胞癌"
+    ]
+  },
+  {
+    "id": "肿瘤_20",
+    "category": "肿瘤",
+    "slide_number": 20,
+    "image": "肿瘤_20_65_11b3e1ddb1.jpg",
+    "answer": "肠腺瘤",
+    "all_text": "肠腺瘤",
+    "texts": [
+      "肠腺瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_21",
+    "category": "肿瘤",
+    "slide_number": 21,
+    "image": "肿瘤_21_66_a5f7300a0d.jpg",
+    "answer": "肠腺癌",
+    "all_text": "肠腺癌",
+    "texts": [
+      "肠腺癌"
+    ]
+  },
+  {
+    "id": "肿瘤_22",
+    "category": "肿瘤",
+    "slide_number": 22,
+    "image": "肿瘤_22_67_f54a3c25c0.jpg",
+    "answer": "子宫平滑肌瘤",
+    "all_text": "子宫平滑肌瘤",
+    "texts": [
+      "子宫平滑肌瘤"
+    ]
+  },
+  {
+    "id": "肿瘤_23",
+    "category": "肿瘤",
+    "slide_number": 23,
+    "image": "肿瘤_23_68_248f8c5d81.jpg",
+    "answer": "子宫平滑肌肉瘤",
+    "all_text": "子宫平滑肌肉瘤",
+    "texts": [
+      "子宫平滑肌肉瘤"
     ]
   }
 ]
