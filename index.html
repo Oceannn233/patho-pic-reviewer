@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>病理学识图复习 — 人体概论实验课</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔬</text></svg>">
+</head>
+<body>
+
+<!-- Header -->
+<header class="header">
+  <div class="header-inner">
+    <div class="header-brand">
+      <span class="icon">🔬</span>
+      <span>病理识图复习</span>
+    </div>
+
+    <div class="header-stats">
+      <div class="header-stat">
+        <div class="val" id="headerTotalQ">--</div>
+        <div class="lbl">题库</div>
+      </div>
+      <div class="header-stat">
+        <div class="val" id="headerErrors">--</div>
+        <div class="lbl">错题</div>
+      </div>
+      <div class="header-stat">
+        <div class="val" id="headerRounds">--</div>
+        <div class="lbl">轮次</div>
+      </div>
+      <div class="header-stat">
+        <div class="val" id="headerAccuracy">--</div>
+        <div class="lbl">均正确率</div>
+      </div>
+    </div>
+
+    <div class="header-actions">
+      <button class="btn btn-outline btn-sm" onclick="backToHome()">🏠 首页</button>
+    </div>
+  </div>
+</header>
+
+<!-- App Container -->
+<main id="app">
+  <!-- Loading -->
+  <div class="setup-screen" id="loadingScreen">
+    <div class="setup-card">
+      <h1>🔬 病理学识图复习</h1>
+      <p class="subtitle">正在加载题库数据...</p>
+      <div class="progress-bar">
+        <div class="progress-fill" style="width:60%;animation:pulse 1s infinite;"></div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- Scripts -->
+<script src="js/knowledge.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

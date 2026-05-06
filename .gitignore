@@ -1,0 +1,9 @@
+.DS_Store
+*.py
+*.ppt
+*.pptx
+*.pdf
+converted/
+__pycache__/
+*.pyc
+.DS_Store
